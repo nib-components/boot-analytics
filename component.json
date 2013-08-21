@@ -1,0 +1,8 @@
+{
+  "name": "boot-analytics",
+  "description": "Unobstrusive analytics event tracking",
+  "dependencies": {
+    "nib-components/analytics": "0.0.2",
+    "component/delegate": "d4a8ae9201c8ee7cc4cee957c23c345dae5382f2"
+  }
+}
